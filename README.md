@@ -2,6 +2,8 @@
 
 Meet **Sonata**, your intelligent assistant for coding, writing, and problem-solving. Powered by GPT-4, it delivers quick, clear answers, generates ideas, improves accessibility, and helps you work smarter. Sonata brings the classic GPT experience to an all-rounded, beautifully styled, and student-friendly interface.
 
+Link: https://sonatav1.streamlit.app/
+
 ---
 
 ## Why Sonata?
